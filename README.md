@@ -87,7 +87,7 @@ Analysed 10 follow-up notes, including one blank note that was skipped.
 CareLoop_Clinic_Project/
 │
 ├── CareLoop_Complete_Analysis.ipynb
-├── CareLoop_SQL_Analysis.sql
+├── careloop_part2.sql
 ├── appointments_clean.csv
 ├── clinics_enriched.csv
 ├── notes_analysed.csv
